@@ -1,2 +1,2 @@
-# bank-app-hw
+# AUA-hws
 this account is merely for the homeworks of my university.
